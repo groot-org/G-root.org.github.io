@@ -4,7 +4,7 @@ import { separatorLine } from "./terminal";
 const editorElement = document.getElementById("editor") as HTMLElement;
 const statsElement = document.getElementById("stats") as HTMLElement;
 
-const linesPerPage = 5;
+const linesPerPage = 3;
 const typingTime = 45000;
 const cursorClassName = "cursor";
 const nextClassName = "next";

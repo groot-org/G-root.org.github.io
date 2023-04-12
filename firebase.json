@@ -1,6 +1,6 @@
 {
 	"hosting": {
-		"target": "coding-fingers",
+		"target": "coder-type",
 		"public": "dist",
 		"ignore": [
 			"firebase.json",

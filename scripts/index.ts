@@ -10,7 +10,7 @@ import {
 } from "./terminal";
 
 const getRoundLine = (round: number, wantsToPlayAgain: boolean) => {
-	if (round === 1) return "Welcome to coding fingers!";
+	if (round === 1) return "Welcome to coder type!";
 	if (wantsToPlayAgain) return "Yay! Let's play again! :)";
 	return "Ah whatever, I'm just gonna let you play again! :)";
 };
